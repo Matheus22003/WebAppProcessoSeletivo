@@ -6,6 +6,7 @@ Olá, para o projeto funcionar siga os passos:
 1º - Execute as querys de SQL em ordem numérica dos arquivos.Ps:A partir da segunda parte, 
 								certifique que o ProcessoSeletivoBD
 								esteja sendo usado.
+
 2º - Abra a pasta webAppProcessoSeletivo.
 
 
